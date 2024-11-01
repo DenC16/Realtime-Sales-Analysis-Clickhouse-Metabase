@@ -33,5 +33,5 @@ select count(*) from sales;
 
 # Dashboard:
 
-[Tab1](https://github.com/DenC16/Realtime-Sales-Analysis-Clickhouse-Metabase/blob/master/Dashboard/Dhyanesh_Sales_Analysis_Dashboard.png)
-[Tab2](https://github.com/DenC16/Realtime-Sales-Analysis-Clickhouse-Metabase/blob/master/Dashboard/Dhyanesh_Sales_Analysis_Dashboard2.png)
+![Tab1](Dashboard\Dhyanesh_Sales_Analysis_Dashboard.png)
+![Tab2](Dashboard\Dhyanesh_Sales_Analysis_Dashboard2.png)
